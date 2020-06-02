@@ -2,7 +2,7 @@
 
 ### _This is a Flashcard page created with HTML, CSS, using jQuery to show & hide definitions._
 
-### Date: _05/29/2020_
+### Date: _06/02/2020_
 
 #### By _**Joseph Pearce, Taylor Sommers**_
 
