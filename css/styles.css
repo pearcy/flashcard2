@@ -1,3 +1,7 @@
-.card-body {
+/* .card-body {
+  display: none;
+} */
+
+.card-body #one {
   display: none;
 }
