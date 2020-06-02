@@ -15,6 +15,12 @@ $(document).ready(function() {
     $(".card-body#four").toggle();
   });
 
-  $("")
+  $(".card-header#five").click(function() {
+    $(".card-body#five").toggle();
+  });
+
+  $(".card-header#six").click(function() {
+    $(".card-body#six").toggle();
+  });
 
 }); // end document ready
